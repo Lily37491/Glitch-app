@@ -7,7 +7,7 @@ click==8.1.7
 colorama==0.4.6
 courlan==1.0.0
 dateparser==1.2.0
-Flask==2.0.3
+Flask==2.2.5
 Flask-SQLAlchemy==3.1.1
 greenlet==3.0.3
 htmldate==1.8.1
